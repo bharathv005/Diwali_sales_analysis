@@ -17,4 +17,3 @@ Using Python and popular data analysis libraries, this notebook explores how sal
 - **Seaborn**
 - **Jupyter Notebook**
 
-## 📂 Project Structure
